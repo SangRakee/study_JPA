@@ -23,7 +23,4 @@ public class Member {
     @OneToMany(mappedBy = "member")
     private List<Order> orderList = new ArrayList<>();
 
-
-
-
 }
