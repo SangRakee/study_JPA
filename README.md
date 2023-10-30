@@ -3,3 +3,4 @@
 ## 학습 내용
 1. bean 설정
 2. JPA
+3. CacheManager
