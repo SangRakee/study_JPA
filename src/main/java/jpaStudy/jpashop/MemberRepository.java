@@ -5,7 +5,6 @@ import jakarta.persistence.PersistenceContext;
 import jpaStudy.jpashop.domain.Member;
 import org.springframework.stereotype.Repository;
 
-@Repository
 public class MemberRepository {
 
     @PersistenceContext
